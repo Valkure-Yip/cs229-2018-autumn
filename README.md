@@ -6,3 +6,4 @@ The videos of all lectures are available [on YouTube](https://www.youtube.com/pl
 
 Useful links:
 - [CS229 Summer 2019 edition](https://github.com/maxim5/cs229-2019-summer)
+- Cheatsheet on [web](https://stanford.edu/~shervine/teaching/cs-229/) and on [Github](https://github.com/afshinea/stanford-cs-229-machine-learning)
